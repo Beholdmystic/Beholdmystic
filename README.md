@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sarin Bhattarai
 - 👀 I’m interested in Web designing
-- 🌱 I’m currently learning Node
+- 🌱 I’m Node Js Developer
+- 🌱 I’m React Js Developer
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me @sarin.punk@gmail.com
 
